@@ -21,7 +21,7 @@ set wildmenu
 "文件默认编码
 set enc=utf-8
 set fileencodings=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
-set termencoding=gb18030
+set termencoding=utf-8
 set encoding=utf-8 
 set fileencoding=utf-8
 "文件默认格式unix
